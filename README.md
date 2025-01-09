@@ -2,7 +2,7 @@
 
 ## Automation and Instrumentation
 
- - (linux-spectrum)[https://github.com/RADIOFELLOWS/linux-spectrum]
+ - [linux-spectrum](https://github.com/RADIOFELLOWS/linux-spectrum)
 
 ## SDR
 
