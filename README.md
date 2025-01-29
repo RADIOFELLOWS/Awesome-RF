@@ -20,3 +20,13 @@ Our mission is to unite professionals, hobbyists, and curious newcomers around a
 ## SDR
 
 - xxx
+
+
+
+
+
+
+
+## To be tested and vetted.
+
+- 
